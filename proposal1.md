@@ -13,9 +13,9 @@ Shows all featured channel hosts
   {
     "id": 2,
     "name": "Mojo Pollo Jr.",
-    "description": "Encounters Network unites and mobilizes the body of Jesus Christ by teaching and imparting the power of intercession, prophetic ministry, and life in the Spirit.",
+    "description": "More Encounters Network unites and mobilizes the body of Jesus Christ by teaching and imparting the power of intercession, prophetic ministry, and life in the Spirit.",
     "keywords": null,
-    "url": "http://xpmedia.com/channel/xptv"
+    "url": "http://xpmedia.com/channel/xptv2"
   },
 ]
 ```
