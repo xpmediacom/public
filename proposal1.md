@@ -58,7 +58,7 @@ Shows all current live streams from a specific user
   {
     "title": "A cool stream #1",
     "description": "This is my description",
-    "duration": 1234,
+    "duration": null,
     "author": "Mojo Pollo",
     "thumbnail": "http://xpmedia.com/a-thumbnail.jpg",
     "url": "http://akamai-cdn-feed-url-or-similar",
@@ -67,7 +67,7 @@ Shows all current live streams from a specific user
   {
     "title": "A cool stream #2",
     "description": "This is my description 2",
-    "duration": 1234,
+    "duration": null,
     "author": "Mojo Pollo",
     "thumbnail": "http://xpmedia.com/a-thumbnail-2.jpg",
     "url": "http://akamai-cdn-feed-url-or-similar",
