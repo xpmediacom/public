@@ -29,18 +29,18 @@ Shows all videos from a specific user
   {
     "title": "A cool video #1",
     "description": "This is my description",
-    "duration" 1234,
+    "duration": "1234",
     "author": "Mojo Pollo",
-    "thumbnail": "http://xpmedia.com/a-thumbnail.jpg"
+    "thumbnail": "http://xpmedia.com/a-thumbnail.jpg",
     "url": "http://xpmedia.com/a-video.mp4",
     "date": "2016-01-01 10:40:52"
   },
   {
     "title": "A cool video #2",
     "description": "This is my description 2",
-    "duration" 1234,
+    "duration": "1234",
     "author": "Mojo Pollo",
-    "thumbnail": "http://xpmedia.com/a-thumbnail-2.jpg"
+    "thumbnail": "http://xpmedia.com/a-thumbnail-2.jpg",
     "url": "http://xpmedia.com/a-video-2.mp4",
     "date": "2016-01-01 11:40:52"
   },
@@ -56,18 +56,18 @@ Shows all current live streams from a specific user
   {
     "title": "A cool stream #1",
     "description": "This is my description",
-    "duration" 1234,
+    "duration": "1234",
     "author": "Mojo Pollo",
-    "thumbnail": "http://xpmedia.com/a-thumbnail.jpg"
+    "thumbnail": "http://xpmedia.com/a-thumbnail.jpg",
     "url": "http://akamai-cdn-feed-url-or-similar",
     "date": "2016-03-01 10:40:52"
   },
   {
     "title": "A cool stream #2",
     "description": "This is my description 2",
-    "duration" 1234,
+    "duration": "1234",
     "author": "Mojo Pollo",
-    "thumbnail": "http://xpmedia.com/a-thumbnail-2.jpg"
+    "thumbnail": "http://xpmedia.com/a-thumbnail-2.jpg",
     "url": "http://akamai-cdn-feed-url-or-similar",
     "date": "2016-03-01 11:40:52"
   },
